@@ -392,12 +392,12 @@ input[type="checkbox"]:checked~.filter-content {
   justify-content: center;
   text-align: center;
   flex-wrap: wrap;
-  gap: 50px;
-  width: 100vh;
+  gap: 40px;
+  width: 100%;
 }
 
 .allfoto>div {
-  margin-bottom: 100px;
+  margin-bottom: 25px;
 }
 
 /* კონტაქტის გვერდი */
