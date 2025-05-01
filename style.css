@@ -445,7 +445,6 @@ input[type="checkbox"]:checked~.filter-content {
 .map {
   text-align: center;
   padding: 50px;
-  width: 100%;
 }
 
 
