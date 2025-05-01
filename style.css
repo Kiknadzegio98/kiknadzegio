@@ -383,7 +383,8 @@ input[type="checkbox"]:checked~.filter-content {
 .allcategory {
   display: flex;
   justify-content: center;
-  width: 40%;
+  width: 100%;
+  max-width: 1020px;
   justify-self: center;
 }
 
