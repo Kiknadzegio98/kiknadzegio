@@ -39,9 +39,9 @@ body {
 }
 
 .carousel {
-  width: 40%;
-  display: flex;
-  justify-self: center;
+  width: 100%;
+  max-width: 1020px;
+  margin: 0 auto;
 }
 
 .carousel-inner img {
@@ -73,7 +73,9 @@ body {
 }
 
 .carouseltop {
-  width: 40%;
+  width: 100%;
+  max-width: 1020px;
+  margin: 0 auto;
   height: 80px;
   display: flex;
   justify-self: center;
@@ -165,6 +167,7 @@ body {
 .centerbtn {
   display: flex;
   justify-self: center;
+  text-align: center;
   padding: 50px;
 }
 
