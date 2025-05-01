@@ -178,7 +178,8 @@ section {
 .brandsicons {
   display: grid;
   grid-template-columns: auto auto auto auto;
-  width: 40%;
+  width: 100%;
+  max-width: 1020px;
   justify-self: center;
   margin: 30px;
 }
